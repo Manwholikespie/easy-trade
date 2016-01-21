@@ -7,7 +7,7 @@ There are a few requirements that you must install before using the program.
 2. [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)  
 
 ##How to Install Dependencies
-If you are on mac, begin by installing homebrew. You can visit their [website](http://brew.sh) for more in-depth help, or type this in to terminal:
+If you are on mac, begin by installing homebrew. You can visit their [website](http://brew.sh) for more in-depth help, or type this in to terminal:  
 `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`  
 
 Once homebrew installs, you need to install python's package manager (pip), and git.  
